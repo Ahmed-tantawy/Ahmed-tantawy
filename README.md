@@ -2,7 +2,14 @@
 # 💫 About Me:
 # Hi there 👋 I'm Ahmed Abdelfattah Ali<br><br>Junior Software Engineer with a strong foundation in AWS, Python, and Linux, dedicated to automation, optimization, and maintaining robust cloud infrastructure.<br><br>## 🚀 About Me<br>- 🔭 I'm currently working as a **Python Developer Intern** at **Commerzbank**<br>- 🌱 I'm currently pursuing a **Bachelor's in Information Technology** at the Czech University of Life Sciences Prague (CZU)<br>- 🏆 **AWS Certified Developer Associate**<br>- 💬 Ask me about DevOps, Python, AWS, and automation<br><br><br>## 🔥 DevOps Experience<br>- Configuration management and automation with **Red Hat Ansible**<br>- Setting up and maintaining **CI/CD pipelines** with TeamCity and Jenkins<br>- Managing containerized applications using **Podman** and **Docker**<br>- Utilizing **Elasticsearch**, **Kibana**, and **Elastalert** for monitoring<br>- Version control with **Git** (GitHub, Bitbucket)<br>- Project tracking with **Jira**<br><br><br>
 
-
+## 💼 Work Experience at Valeo
+- Worked as a **Junior DevOps Engineer Intern** from May 2024 to May 2025
+- Developed automation scripts using **Python** and **Shell Scripting**
+- Implemented containerized applications with **Docker**
+- Maintained CI/CD pipelines with **Jenkins**
+- Used **Git** for version control and collaborative development
+- Configured monitoring systems with **Elasticsearch**, **Kibana**, and **Elastalert**
+- Applied **Linux** administration skills for system optimization
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ahmed-546498268) 
 
