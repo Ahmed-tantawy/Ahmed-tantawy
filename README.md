@@ -31,9 +31,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ahmed-tantawy&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-#how many vistors
----
-[![](https://visitcount.itsvg.in/api?id=Ahmed-tantawy&icon=2&color=4)](https://visitcount.itsvg.in)
-
 
 
