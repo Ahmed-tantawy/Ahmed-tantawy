@@ -13,14 +13,14 @@
 
 ## 💼 Work Experience
 
-### Python Developer - Internship at Commerzbank (Jan 2025 - Jan 2026)
+### Internship at Commerzbank
 - Utilized **Red Hat Ansible** for configuration management and automation
 - Worked with **Jira** and **Bitbucket** for project tracking and version control
 - Managed containerized applications using **Podman**
 - Set up and maintained **CI/CD pipelines** with **TeamCity**
 - Collaborated with cross-functional teams to enhance DevOps practices
 
-### Junior DevOps Engineer - Internship at Valeo (May 2024 - May 2025)
+### Junior DevOps Engineer - Internship at Valeo
 - Developed automation scripts using **Python** and **Shell Scripting**
 - Implemented containerized applications with **Docker**
 - Maintained CI/CD pipelines with **Jenkins**
