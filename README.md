@@ -37,8 +37,6 @@ Hi there 👋 I'm Ahmed Abdelfattah Ali<br><br>Junior Software Engineer with a s
 ![](https://github-readme-stats.vercel.app/api?username=Ahmed-tantawy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-tantawy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ahmed-tantawy&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 
 
