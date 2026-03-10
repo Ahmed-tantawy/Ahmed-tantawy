@@ -4,7 +4,7 @@
 
 Junior DevOps Engineer focused on **cloud infrastructure, automation, and CI/CD pipelines**.
 
-💬 Ask me about **DevOps, AWS, GCP, Python, Linux, Jenkins, and automation**
+💬 Ask me about **DevOps, AWS, GCP, Python, Linux, Jenkins, PostgreSQL, and automation**
 
 ---
 
@@ -20,6 +20,7 @@ Junior DevOps Engineer focused on **cloud infrastructure, automation, and CI/CD 
 ![Ansible](https://img.shields.io/badge/ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white)
 ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
