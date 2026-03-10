@@ -4,7 +4,7 @@
 
 Junior DevOps Engineer focused on **cloud infrastructure, automation, and CI/CD pipelines**.
 
-💬 Ask me about **DevOps, AWS, GCP, Python, Linux, and automation**
+💬 Ask me about **DevOps, AWS, GCP, Python, Linux, Jenkins, and automation**
 
 ---
 
@@ -14,27 +14,28 @@ Junior DevOps Engineer focused on **cloud infrastructure, automation, and CI/CD 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
-**Commerzbank — DevOps Intern**
+**Commerzbank — DevOps**
 - Automation with **Ansible**
 - CI/CD pipelines with **TeamCity**
 - Container management using **Podman**
 - Openshift
 
-**Valeo — DevOps Intern**
+**Valeo — SW Tool Developer**
 - Automation using **Python & Bash**
 - Monitoring with **Elasticsearch & Kibana**
 - CI/CD with **Jenkins**
-- Google Cloud
+- **Google Cloud**
 
 ---
 
