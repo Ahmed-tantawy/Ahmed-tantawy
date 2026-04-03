@@ -6,7 +6,7 @@ DevOps Engineer based in Prague 🇨🇿 — focused on infrastructure automatio
 
 Currently at **Valeo**, previously at **Commerzbank**.
 
-💬 Ask me about **Linux, Ansible, Jenkins, Kubernetes, GCP, Python, and automation**
+💬 Ask me about **Linux, Ansible, Jenkins, Kubernetes, AWS, GCP, Python, and automation**
 
 ---
 
